@@ -10,6 +10,10 @@ Made just to practice React and CSS.
 
 ## Usage
 
+[Online version](http://choice-maker.surge.sh)
+
+or
+
 To run this React app, just run the following command
 
 ```bash
