@@ -1,6 +1,4 @@
-<p align="center">![Choice Maker](res/banner.png)
-
-</p>
+![Choice Maker](res/banner.png)
 
 ## Description
 
